@@ -97,7 +97,7 @@ custom_css = ["css/custom.css"]
 
         [[params.counter.counterItem]]
         title = "Positive feedback"
-        icon = "tf-ion-thumbsup"
+        icon = "tf-ion-facolumns"
         count = "95"
 
         [[params.counter.counterItem]]

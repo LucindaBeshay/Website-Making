@@ -1,4 +1,4 @@
----
+![](/jamica-jock/_index_files/logo.png)---
 email: email@example.org
 github: example
 name: Jamica Jock
