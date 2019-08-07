@@ -26,20 +26,19 @@ summaryLength = 10
     weight = 3
 
     [[menu.nav]]
-    name = "Portfolio"
-    URL = "portfolio"
+    name = "Team"
+    URL = "our-team"
     weight = 4
 
     [[menu.nav]]
-    name = "Team"
-    URL = "our-team"
+    name = "Textbook directory"
+    URL = "Textbook directory"
     weight = 5
-
     [[menu.nav]]
-    name = "Pricing"
-    URL = "pricing"
+    name = "Items directory"
+    URL = "Items directory"
     weight = 6
-
+  
     [[menu.nav]]
     name = "Blog"
     URL = "blog"
@@ -76,10 +75,11 @@ custom_css = ["css/custom.css"]
     # call to action
     [params.cta]
     enable = true
-    title = "Great Design & Incredible Features"
-    content = "Lorem ipsum dolor sit amet consectetur adipisicing elit. Officiis tenetur odio impedit incidunt? Omnis accusantium ea reiciendis, fugit commodi nostrum."
+    title = "Invest whether you are buying or selling"
+    content = "Recycling university items profits both the buyer and the seller. The seller gets a refund on the items bought and the buyer gets a cheaper price on the items sold
     btnURL = "#"
-    btnText = "Start a project with us"
+    btnText = "View Directory"
+    
 
     # counter
     [params.counter]
