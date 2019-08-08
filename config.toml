@@ -92,11 +92,6 @@ custom_css = ["css/custom.css"]
         count = "320"
 
         [[params.counter.counterItem]]
-        title = "Projects completed"
-        icon = "tf-ion-archive"
-        count = "565"
-
-        [[params.counter.counterItem]]
         title = "Cups of Coffee"
         icon = "tf-ion-coffee"
         count = "2500"
