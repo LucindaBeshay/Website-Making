@@ -85,6 +85,7 @@ custom_css = ["css/custom.css"]
     [params.counter]
     enable = true
     bgImage = "images/backgrounds/bg-1.jpg"
+    
         [[params.counter.counterItem]]
         title = "Happy Clients"
         icon = "tf-ion-android-happy"
@@ -96,14 +97,15 @@ custom_css = ["css/custom.css"]
         count = "565"
 
         [[params.counter.counterItem]]
-        title = "Positive feedback"
-        icon = "tf-ion-facolumns"
-        count = "95"
-
-        [[params.counter.counterItem]]
         title = "Cups of Coffee"
         icon = "tf-ion-coffee"
         count = "2500"
+        
+        [[params.counter.counterItem]]
+        title="textbooks Directory"
+        icon = "plus"
+        icon_pack="fa"
+        link= "//ubcrecycle.shinyapps.io/Textbook1/"
 
     # footer
     [params.footer]
@@ -112,7 +114,8 @@ custom_css = ["css/custom.css"]
 
         # social Icons
         [[params.footer.socialIcon]]
-        icon = "tf-ion-social-facebook"
+        icon = "flask"
+        icon_pack= "fa"
         url = "#"
 
         [[params.footer.socialIcon]]
