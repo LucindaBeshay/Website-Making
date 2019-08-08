@@ -1,8 +1,14 @@
 ---
 title: Textbook Directory
-author: ''
+author: 'Website Authors '
 date: '2019-08-07'
 slug: textbook-directory
-categories: []
+image:images/blog/textbooks-1.jpg
+categories: 
 tags: []
+
 ---
+
+
+
+
