@@ -99,8 +99,7 @@ custom_css = ["css/custom.css"]
         [[params.counter.counterItem]]
         title="textbooks Directory"
         icon = "plus"
-        icon_pack="fa"
-        link= "//ubcrecycle.shinyapps.io/Textbook1/"
+        
 
     # footer
     [params.footer]
@@ -135,4 +134,4 @@ custom_css = ["css/custom.css"]
 
         [[params.footer.socialIcon]]
         icon = "tf-ion-social-pinterest-outline"
-        url = "#"
+        url = "https://ubcrecycle.shinyapps.io/Textbook1/"
